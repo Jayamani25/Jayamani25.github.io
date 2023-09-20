@@ -1,0 +1,104 @@
+nav{
+    display: flex;
+    justify-content: space-between;
+    padding: 1rem 2rem;
+    background-color: #fff5e0;
+}
+nav h2{
+    font-size: 1.5rem;
+}
+ul{
+    display: flex;
+    list-style-type: none;
+}
+li{
+    padding-left: 2rem;
+}
+a{
+    color: black;
+    text-decoration: none;
+}
+body{
+    margin: 0;
+    padding: 0;
+    font-family: "Montserrat";
+    text-align: center;
+}
+h1{
+    color: #BB2525;
+    font-family: "Sacramento";
+    font-size: 3rem;
+    font-weight: 200;
+    margin: 0;
+}
+h2{
+    color: #BB2525;
+    font-size: 1.8rem;
+}
+h3{
+    margin: 0;
+    color: #11999E;
+}
+p{
+    font-size: 1.2rem;
+    line-height: 2;
+}
+.topsec{
+    padding-top: 290px;
+    background-color: #fff5e0;
+}
+.sun{
+    height: 80px;
+    width: 70px;
+    position: absolute;
+    top: 20%;
+    left: 20%;
+}
+.c1{
+    position: absolute;
+    top: 30%;
+    right: 30%;
+}
+.c2{
+    position: absolute;
+    top: 80%;
+    left: 20%;
+}
+.profile{
+    padding-top: 30px;
+}
+.myph{
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+}
+hr{
+    border: dotted grey 6px;
+    border-bottom: none;
+    width: 5%;
+    margin: 80px auto ;
+}
+#skills{
+    width: 60%;
+    margin: 10px auto;
+}
+.skillrow{
+    text-align: left;
+    padding: 50px 0;
+}
+.sk1{
+    float: left;
+    padding-right: 20px;
+}
+.sk2{
+    float: right;
+}
+#footer{
+    margin-top: 5%;
+    background-color: #fff5e0;
+    padding: 40px 0;
+}
+#footer a{
+    color: #11999E;
+    padding: 10px 20px;
+}
